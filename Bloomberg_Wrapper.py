@@ -152,7 +152,3 @@ if __name__ == '__main__':
 
 	# Expirty date of June SPX call 2000
 	ret3 = bbg.bdp('X5M6C 2000 Index', 'LAST_TRADEABLE_DT')
-
-
-
-
